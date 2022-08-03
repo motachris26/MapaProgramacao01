@@ -22,7 +22,7 @@ public class Eventos {
     private void venderIngresso() {
 
     }
-
+ 
     private void ingressosVendidos() {
 
     }
