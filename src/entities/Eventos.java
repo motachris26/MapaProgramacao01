@@ -15,6 +15,10 @@ public class Eventos {
     private Double valorUnico;
     private int capacidadeMAX;
     private ArrayList<Ingressos> vendidos;
+    
+    public Eventos(){
+        System.out.println("Construtor Eventos ok");
+    }
 
     private void venderIngresso() {
 
