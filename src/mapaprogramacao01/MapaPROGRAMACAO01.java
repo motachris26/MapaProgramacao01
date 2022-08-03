@@ -19,6 +19,6 @@ public class MapaPROGRAMACAO01 {
         // TODO code application logic here
         System.out.println("mapa");
         JOptionPane.showMessageDialog(null, "mapa");
-    }
+    } 
 
 }
