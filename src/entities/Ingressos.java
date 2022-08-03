@@ -1,5 +1,5 @@
 
-package mapaprogramacao01;
+package entities;
 
 /**
  *

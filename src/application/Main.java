@@ -1,4 +1,5 @@
-package mapaprogramacao01;
+
+package application;
 
 import javax.swing.JOptionPane;
 
@@ -6,7 +7,7 @@ import javax.swing.JOptionPane;
  *
  * @author Andrey Gheno Piekas <andreypiekas at https://github.com/andreypiekas>
  */
-public class MapaPROGRAMACAO01 {
+public class Main {
 
     /**
      * @param args the command line arguments
