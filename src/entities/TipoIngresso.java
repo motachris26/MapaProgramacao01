@@ -12,14 +12,20 @@ public enum TipoIngresso {
     
      PISTA(0.0), VIP(0.30), CAMAROTE(0.60);
 
-    private Double taxaCobranca;
-
-    TipoIngresso(Double taxaCobranca) {
-        this.taxaCobranca = taxaCobranca;
+    private Double taxaAdicional;
+    
+    
+    public void imprimirValor(){
+        
+        
     }
 
-    public Double getTaxaCobranca() {
-        return taxaCobranca;
+    TipoIngresso(Double taxaAdicional) {
+        this.taxaAdicional = taxaAdicional;
+    }
+
+    public Double getTaxaAdicional() {
+        return taxaAdicional;
     }
     
 }

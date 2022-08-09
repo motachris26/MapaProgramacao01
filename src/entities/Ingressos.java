@@ -8,7 +8,7 @@ package entities;
 public class Ingressos {
 
     private String nome;
-    private String CPF;
+    //private String CPF;
 
     public void calcularValor() {
 
@@ -17,5 +17,7 @@ public class Ingressos {
     public void mostrarResumo() {
 
     }
+    
+    
 
 }

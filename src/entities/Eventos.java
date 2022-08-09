@@ -1,4 +1,3 @@
-
 package entities;
 
 import java.util.ArrayList;
@@ -15,8 +14,8 @@ public class Eventos {
     private Double valorUnico;
     private int capacidadeMAX;
     private ArrayList<Ingressos> vendidos;
-    
-    public Eventos(){
+
+    public Eventos() {
         System.out.println("Construtor Eventos ok");
     }
 
@@ -27,4 +26,4 @@ public class Eventos {
     private void ingressosVendidos() {
 
     }
-}  
+}
